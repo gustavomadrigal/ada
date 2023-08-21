@@ -24,3 +24,5 @@ Cell #4:
 Cell #5: 
 
 1. This cells gives the final and the correct .PDB file.
+
+Note: Be careful with the input/ouput file in each cell. 
