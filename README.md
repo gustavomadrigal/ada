@@ -7,7 +7,7 @@ Cell #1:
 
 1. You need to generate the Adamantanone .PDB file using the .CIF File. For this, you can use Mercury. For downloading Mercury: https://www.ccdc.cam.ac.uk/solutions/software/free-mercury/
 
-2. This cell removes the extra 2 Oxygen atoms and the extra 2 Hydrogen atoms associated with the Oxygen atom that is left. 
+2. This cell removes randomly the extra 2 Oxygen atoms and the extra 2 Hydrogen atoms associated with the Oxygen atom that is left. 
 
 Cell #2:
 
